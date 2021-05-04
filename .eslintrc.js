@@ -43,7 +43,7 @@ module.exports = {
     "react/prop-types": 0,
     "no-debugger": "error",
     "no-console": "error",
-    "simple-import-sort/sort": [
+    "simple-import-sort/imports": [
       "error",
       {
         groups: [
